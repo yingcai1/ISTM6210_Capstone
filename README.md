@@ -1,2 +1,3 @@
 # ISTM6210_Capstone
-capstone project
+This is for ISTM 6210: 2021 Fall
+Capstone project
